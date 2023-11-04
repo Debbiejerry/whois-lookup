@@ -61,4 +61,4 @@ Contributions to this project are welcome. To contribute, please follow these gu
 This project is licensed under the MIT License. You can find the full license text in the LICENSE file.
 
 ## Disclaimer
-This project was created followin a tutorial by [W. J. Pearce](https://www.youtube.com/watch?v=tbhYxd2sfAE&t=2s) on YouTube. I would like to express my appreciation for the tutorial and encourage everyone to subscribe to W. J. Pearce's YouTube channel for more insightful and educational content on various topics, including this one.
+This project was created following a tutorial by [W. J. Pearce](https://www.youtube.com/watch?v=tbhYxd2sfAE&t=2s) on YouTube. I would like to express my appreciation for the tutorial and encourage everyone to subscribe to W. J. Pearce's YouTube channel for more insightful and educational content on various topics, including this one.
